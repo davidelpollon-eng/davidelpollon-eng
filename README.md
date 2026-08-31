@@ -36,10 +36,10 @@ Aprendiendo a construir software, de bajo nivel a la web.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davidelpollon-eng&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-eight-iota-63.vercel.app/api?username=davidelpollon-eng&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=davidelpollon-eng&theme=github-dark&hide_border=true" height="165" alt="GitHub streak stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidelpollon-eng&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-eight-iota-63.vercel.app/api/top-langs/?username=davidelpollon-eng&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
 
 </div>
 
